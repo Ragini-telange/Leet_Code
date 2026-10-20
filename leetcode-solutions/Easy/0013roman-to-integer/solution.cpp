@@ -2,8 +2,10 @@
 // Problem: 13. Roman to Integer (Easy)
 // LeetCode: https://leetcode.com/problems/roman-to-integer/
 // Language: C++
-// Runtime: 0 ms (beats 25.68%)
-// Memory: 8 MB (beats 5.79%)
+// Runtime: 11
+ms (beats 25.68%)
+// Memory: 13.52
+MB (beats 5.79%)
 // Synced by Code_Raginii
 // ==========================================================================
 class Solution {
@@ -29,5 +31,3 @@ public:
         }
 
         return ans;
-    }
-};
