@@ -3,10 +3,8 @@
 - **Difficulty**: `Easy`
 - **Language**: `C++`
 - **LeetCode URL**: [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-- **Runtime**: 9
-ms (beats 34.02%)
-- **Memory**: 13.49
-MB (beats 16.73%)
+- **Runtime**: 11 ms (beats 25.7%)
+- **Memory**: 13.5 MB (beats 5.8%)
 
 ## Solution File
 - [C++ Solution](./solution.cpp)
