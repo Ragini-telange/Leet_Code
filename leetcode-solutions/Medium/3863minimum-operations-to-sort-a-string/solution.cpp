@@ -10,7 +10,7 @@ return 1;
                 return 0;
             }
         if(n==3){
-            if((s[0]<s[1] &&s[1]<s[2])|| s[1]==s[2]){
+            if((s[0]<s[1] &&s[1]<s[2])|| s[1]==s[2] || (s[0]==s[1] && s[0]<s[2])){
     int minOperations(string s) {
         int n=s.size();
         for(int i=0;i<n;i++){
