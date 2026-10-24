@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **7** (🟢 Easy: 2 | 🟡 Medium: 5 | 🔴 Hard: 0)
+- **Total Unique Problems**: **8** (🟢 Easy: 3 | 🟡 Medium: 5 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -13,6 +13,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/00153sum/solution.cpp) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/00184sum/solution.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0075sort-colors/solution.cpp) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0121best-time-to-buy-and-sell-stock/solution.cpp) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/3863minimum-operations-to-sort-a-string/solution.cpp) |
 
