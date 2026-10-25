@@ -4,19 +4,24 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-for(char ch :letters){
+if(idx==digits.size()){
+            ans.push_back(curr);
+            return ;
+        }
+
+        string letters=mp[digits[idx]];
+
+        for(char ch:letters){
             solve(idx+1,digits,curr+ch);
         }
-    }    
-
-
-
+    }
     
     vector<string> letterCombinations(string digits) {
-       if(digits.empty())
-       return{};
-       solve(0,digits,"");
-       return  ans;
-
+      
+      if(digits.empty()){
+        return {};
+      }
+      solve(0,digits,"");
+      return ans;
     }
 };
