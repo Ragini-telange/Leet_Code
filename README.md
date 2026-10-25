@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **12** (🟢 Easy: 4 | 🟡 Medium: 8 | 🔴 Hard: 0)
+- **Total Unique Problems**: **13** (🟢 Easy: 5 | 🟡 Medium: 8 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -17,6 +17,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/00184sum/solution.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0075sort-colors/solution.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0121best-time-to-buy-and-sell-stock/solution.cpp) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0125valid-palindrome/solution.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0151reverse-words-in-a-string/solution.cpp) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/3863minimum-operations-to-sort-a-string/solution.cpp) |
