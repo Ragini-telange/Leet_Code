@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **15** (🟢 Easy: 7 | 🟡 Medium: 8 | 🔴 Hard: 0)
+- **Total Unique Problems**: **16** (🟢 Easy: 8 | 🟡 Medium: 8 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -17,6 +17,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0017letter-combinations-of-a-phone-number/solution.cpp) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/00184sum/solution.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0026remove-duplicates-from-sorted-array/solution.cpp) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0027remove-element/solution.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0075sort-colors/solution.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0121best-time-to-buy-and-sell-stock/solution.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0125valid-palindrome/solution.cpp) |
