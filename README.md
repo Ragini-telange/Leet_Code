@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **19** (🟢 Easy: 10 | 🟡 Medium: 9 | 🔴 Hard: 0)
+- **Total Unique Problems**: **20** (🟢 Easy: 10 | 🟡 Medium: 10 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -24,6 +24,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0125valid-palindrome/solution.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0151reverse-words-in-a-string/solution.cpp) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | `Easy` | `sql` | [Solution](./leetcode-solutions/Easy/0181employees-earning-more-than-their-managers/solution.sql) |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0240search-a-2d-matrix-ii/solution.cpp) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2089find-target-indices-after-sorting-array/solution.cpp) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/3863minimum-operations-to-sort-a-string/solution.cpp) |
