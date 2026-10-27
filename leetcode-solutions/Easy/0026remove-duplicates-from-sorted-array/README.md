@@ -5,8 +5,8 @@
 - **LeetCode URL**: [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - **Runtime**: 0
 ms (beats 100.00%)
-- **Memory**: 22.55
-MB (beats 75.75%)
+- **Memory**: 22.51
+MB (beats 75.19%)
 
 ## Solution File
 - [C++ Solution](./solution.cpp)

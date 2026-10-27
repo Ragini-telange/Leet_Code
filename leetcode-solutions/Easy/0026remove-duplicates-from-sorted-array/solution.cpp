@@ -4,25 +4,26 @@
 // Language: C++
 // Runtime: 0
 ms (beats 100.00%)
-// Memory: 22.55
-MB (beats 75.75%)
+// Memory: 22.51
+MB (beats 75.19%)
 // Synced by Code_Raginii
 // ==========================================================================
-int removeDuplicates(vector<int>& nums) {
-
-        if(nums.empty()){
-            return 0;
-        }
-
-        int n=nums.size();
-        int i=0;
-        for(int j=0;j<n;j++){
-            if(nums[j]!=nums[i]){
-                i++;
-                (nums[i]=nums[j]);
-            }
-        }
-        return i+1;
-
+if(nums.empty()){
+        return 0;
+       }
     }
+       int i=0;
+       for(int j=0;j<nums.size();j++){
+        if(nums[j]!=nums[i]){
+       }
+
+        }
+
+            i++;
+       return i+1;
+            nums[i]=nums[j];
 };
+
+public:
+    int removeDuplicates(vector<int>& nums) {
+class Solution {
