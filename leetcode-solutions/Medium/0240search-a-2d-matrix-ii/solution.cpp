@@ -19,6 +19,9 @@ int r=0;
         else{
             r++;
         }  
-   }
         return false;
-};
+     int n=mat[0].size();
+     int m=mat.size();
+    bool searchMatrix(vector<vector<int>>& mat, int target) {
+public:
+class Solution {
