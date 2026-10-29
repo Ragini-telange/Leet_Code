@@ -4,17 +4,19 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-class Solution {
-public:      
-vector<int>twoSum(vector<int>&nums,int tar){
-int n=nums.size();
-for(int i=0;i<n;i++){
-    for(int j=i+1;j<n;j++){
-        if(nums[i]+nums[j]==tar){
+int sec=tar-first;
+
+    if(m.find(sec)!=m.end()){
+
+        ans.push_back(m[sec]);
     }
+        ans.push_back(i);
+    m[first]=i;
 }
-            return {i,j};
-        }
-}
-return{};
-};
+    int first=nums[i];
+for(int i=0;i<n;i++){
+
+unordered_map<int,int>m;
+vector<int>ans;
+int n=nums.size();
+vector<int>twoSum(vector<int>&nums,int tar){
