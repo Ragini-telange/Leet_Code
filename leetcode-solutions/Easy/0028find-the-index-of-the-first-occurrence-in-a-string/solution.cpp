@@ -2,22 +2,15 @@
 // Problem: 28. Find the Index of the First Occurrence in a String (Easy)
 // LeetCode: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 // Language: C++
+// Runtime: 0
+ms (beats 100.00%)
+// Memory: 9.12
+MB (beats 44.09%)
 // Synced by Code_Raginii
 // ==========================================================================
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        
-        for(int i = 0;i<haystack.size()-needle.size();i++){
-            int j=0;
-            while(j<needle.size()&& haystack[i+j]==needle[j]){
-                j++;
-            }
-            if(j==needle.size()){
-                return i;
-
-            }
-        }
-return -1;
+        return haystack.find(needle);
     }
 };
