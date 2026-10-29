@@ -4,22 +4,21 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-int h = haystack.size();
-        int n = needle.size();
-
-        for (int i = 0; i <= h - n; i++) {
-            string ans = "";
-
-            for (int j = i; j < i + n; j++) {
-                ans = ans + haystack[j];
-            }
-
-            if (ans == needle) {
-                return i;
-            }
-        }
-
-        return -1;
+class Solution {
 public:
     int strStr(string haystack, string needle) {
-class Solution {
+       int n=haystack.size();
+       int m=needle.size();
+
+       for(int i=0;i<n-m;i++){
+        int j=0;
+       }
+        while(j<m && haystack[i+j]==needle[j]){
+            j++;
+        }
+        if(j==m){
+            return i;
+        }
+    }
+       return -1;
+};
