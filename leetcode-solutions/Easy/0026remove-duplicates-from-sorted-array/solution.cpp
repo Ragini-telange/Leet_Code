@@ -4,20 +4,22 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-int removeDuplicates(vector<int>& nums) {
-        if(nums.empty()){
-            return 0;
-        }
-
-        
-        int i=0;
-        for(int j=0;j<nums.size();j++){
-            if(nums[j]!=nums[i]){
-                i++;
-                nums[i]=nums[j];
-            }
-        }
-        return i+1;
+}
     }
 
 };
+        int i=0;
+        for(int j=0;j<nums.size();j++){
+            if(nums[i]!=nums[j]){
+        
+                i++;
+            }
+
+                nums[i]=nums[j];
+        }
+        return i+1;
+            return 0;
+        if(nums.empty()){
+    int removeDuplicates(vector<int>& nums) {
+public:
+class Solution {
