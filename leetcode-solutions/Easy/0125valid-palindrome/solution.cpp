@@ -4,20 +4,21 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-int start=0;
-    int end=n-1;
+}
+        continue;
+    if(!alphanumeric(s[start])){
+        start++;
 
-    while(start<end){
-        if(!alphanumeric(s[start])){
-   bool isPalindrome(string s){
+    while(start<=end){
+    int start=0;
+    int end=n-1;
     int n=s.size();
+   bool isPalindrome(string s){
 
    }
     return false;
-    
-   bool alphanumeric(char ch){
-    if(ch>='0' && ch<='9' || ch>='a' && ch<='z'|| ch>='A'&& 
-    ch<='Z'){
+   bool alphanumeric(char ch ){
+    if(ch>='0' && ch<='9' || ch>='a'&& ch<='z' || ch>='A' && ch<='Z'){
         return true;
     }
 class Solution {
