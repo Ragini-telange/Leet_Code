@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **27** (🟢 Easy: 15 | 🟡 Medium: 12 | 🔴 Hard: 0)
+- **Total Unique Problems**: **28** (🟢 Easy: 16 | 🟡 Medium: 12 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -24,6 +24,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0039combination-sum/solution.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0058length-of-last-word/solution.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0067add-binary/solution.cpp) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0070climbing-stairs/solution.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0075sort-colors/solution.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0121best-time-to-buy-and-sell-stock/solution.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0125valid-palindrome/solution.cpp) |
