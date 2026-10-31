@@ -4,11 +4,7 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-class Solution {
-public:
-    string longestCommonPrefix(vector<string>& strs) {
-
-       string ans="";
+string ans="";
        for(int i=0;i<strs[0].size();i++){
         char ch=strs[0][i];
        }
@@ -18,7 +14,10 @@ public:
                 return ans;
             }
     }
-            
        return ans;
+        
         ans+=ch;
-};
+
+    string longestCommonPrefix(vector<string>& strs) {
+public:
+class Solution {
