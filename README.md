@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **25** (🟢 Easy: 14 | 🟡 Medium: 11 | 🔴 Hard: 0)
+- **Total Unique Problems**: **26** (🟢 Easy: 14 | 🟡 Medium: 12 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -14,6 +14,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0013roman-to-integer/solution.cpp) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0014longest-common-prefix/solution.cpp) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/00153sum/solution.cpp) |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/00163sum-closest/solution.cpp) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0017letter-combinations-of-a-phone-number/solution.cpp) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/00184sum/solution.cpp) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0026remove-duplicates-from-sorted-array/solution.cpp) |
