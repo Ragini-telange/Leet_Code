@@ -4,23 +4,17 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-int c=n-1;
-return false;
-
-     while(r<m && c>=0){
-        if(mat[r][c]==target){
+while(r<m && c>=0){
+        if(target==mat[r][c]){
             return true;
         }
-
-        else if(mat[r][c]>target) {
+        else if(target<mat[r][c]){
             c--;
-        } 
+        }
         else{
             r++;
-        }   }
-     int n=mat[0].size();
-     int r=0;
-     int m=mat.size();
-public:
-    bool searchMatrix(vector<vector<int>>& mat, int target) {
-class Solution {
+        }
+     }
+     return false;
+       }
+};
