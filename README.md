@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **24** (🟢 Easy: 13 | 🟡 Medium: 11 | 🔴 Hard: 0)
+- **Total Unique Problems**: **25** (🟢 Easy: 14 | 🟡 Medium: 11 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -31,6 +31,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0240search-a-2d-matrix-ii/solution.cpp) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2089find-target-indices-after-sorting-array/solution.cpp) |
+| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2778sum-of-squares-of-special-elements/solution.cpp) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/3863minimum-operations-to-sort-a-string/solution.cpp) |
 
 ---
