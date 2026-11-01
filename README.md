@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **29** (🟢 Easy: 17 | 🟡 Medium: 12 | 🔴 Hard: 0)
+- **Total Unique Problems**: **30** (🟢 Easy: 17 | 🟡 Medium: 13 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -31,6 +31,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0151reverse-words-in-a-string/solution.cpp) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | `Easy` | `sql` | [Solution](./leetcode-solutions/Easy/0181employees-earning-more-than-their-managers/solution.sql) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0209minimum-size-subarray-sum/solution.cpp) |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0215kth-largest-element-in-an-array/solution.cpp) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0240search-a-2d-matrix-ii/solution.cpp) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2089find-target-indices-after-sorting-array/solution.cpp) |
