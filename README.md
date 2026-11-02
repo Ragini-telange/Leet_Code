@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **31** (🟢 Easy: 18 | 🟡 Medium: 13 | 🔴 Hard: 0)
+- **Total Unique Problems**: **32** (🟢 Easy: 19 | 🟡 Medium: 13 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -37,6 +37,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2089find-target-indices-after-sorting-array/solution.cpp) |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2293min-max-game/solution.cpp) |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2574left-and-right-sum-differences/solution.cpp) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2778sum-of-squares-of-special-elements/solution.cpp) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/3863minimum-operations-to-sort-a-string/solution.cpp) |
 
