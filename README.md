@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **36** (🟢 Easy: 23 | 🟡 Medium: 13 | 🔴 Hard: 0)
+- **Total Unique Problems**: **37** (🟢 Easy: 24 | 🟡 Medium: 13 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -31,6 +31,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0125valid-palindrome/solution.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0151reverse-words-in-a-string/solution.cpp) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | `Easy` | `sql` | [Solution](./leetcode-solutions/Easy/0181employees-earning-more-than-their-managers/solution.sql) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0202happy-number/solution.cpp) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0209minimum-size-subarray-sum/solution.cpp) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0215kth-largest-element-in-an-array/solution.cpp) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0240search-a-2d-matrix-ii/solution.cpp) |
