@@ -4,24 +4,25 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-int findMiddleIndex(vector<int>& nums) {
-        
-       
-        int totalsum=0;
-
-        for(int num:nums){
-         totalsum+=num;
+for(int num:nums){
+            totalsum+=num;
         }
-
+        
+return -1;
+        int totalsum=0;
         int leftsum=0;
-
-        for(int i=0;i<nums.size();i++){
-
+        for(int i=0;i<n;i++){
             int rightsum=totalsum-leftsum-nums[i];
+        }
 
             if(leftsum==rightsum){
                 return i;
             }
-            leftsum+=nums[i];
+    }
 
-        }
+            leftsum+=nums[i];
+};
+    int findMiddleIndex(vector<int>& nums) {
+        int n=nums.size();
+class Solution {
+public:
