@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **37** (🟢 Easy: 24 | 🟡 Medium: 13 | 🔴 Hard: 0)
+- **Total Unique Problems**: **38** (🟢 Easy: 25 | 🟡 Medium: 13 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -42,6 +42,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2293min-max-game/solution.cpp) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2574left-and-right-sum-differences/solution.cpp) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2778sum-of-squares-of-special-elements/solution.cpp) |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/3498reverse-degree-of-a-string/solution.cpp) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/3731find-missing-elements/solution.cpp) |
 | 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/3736minimum-moves-to-equal-array-elements-iii/solution.cpp) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/3863minimum-operations-to-sort-a-string/solution.cpp) |
