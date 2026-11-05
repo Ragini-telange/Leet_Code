@@ -8,7 +8,6 @@ ms (beats 100.00%)
 MB (beats 75.81%)
 // Synced by Code_Raginii
 // ==========================================================================
-class Solution {
 public:
     int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
 
@@ -22,3 +21,11 @@ public:
                     break;
                 }
             }
+            if(valid){
+                count++;
+            }
+        }
+        return count;
+    }
+};
+class Solution {
