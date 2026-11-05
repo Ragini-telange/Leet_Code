@@ -2,6 +2,10 @@
 // Problem: 70. Climbing Stairs (Easy)
 // LeetCode: https://leetcode.com/problems/climbing-stairs/
 // Language: C++
+// Runtime: 0
+ms (beats 100.00%)
+// Memory: 7.86
+MB (beats 70.51%)
 // Synced by Code_Raginii
 // ==========================================================================
 class Solution {
@@ -17,9 +21,9 @@ public:
 
        for(int i=3;i<=n;i++){
         int c=a+b;
-       }
         a=b;
+        b=c;
        }
        return b;
-        b=c;
+       }
 };
