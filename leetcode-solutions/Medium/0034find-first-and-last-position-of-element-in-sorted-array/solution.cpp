@@ -4,18 +4,26 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-start=mid+1;
-            }
+}
+    return first;
         }
-       
-        return last;
-       }
+        else {
+            start=mid+1;
+        }
+        else if(nums[mid]>target){
+            end=mid-1;
 
-       vector<int> searchRange(vector<int>& nums,int target){
-        int first=findFirst(nums,target);
-        int last=findLast(nums,target);
-       
-       return {first,last};
-    }
-};
-            else{
+        }
+        if(nums[mid]==target){
+            first=mid;
+            end=mid-1;;
+        int mid=start+(end-start)/2;
+    int first=-1;
+
+    while(start<=end){
+    int end=n-1;
+    int start=0;
+    int n=nums.size();
+  int Findfirst(vector<int> & nums,int target){
+class Solution {
+public:
