@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **41** (🟢 Easy: 27 | 🟡 Medium: 14 | 🔴 Hard: 0)
+- **Total Unique Problems**: **42** (🟢 Easy: 27 | 🟡 Medium: 15 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -20,6 +20,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0026remove-duplicates-from-sorted-array/solution.cpp) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0027remove-element/solution.cpp) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0028find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0034find-first-and-last-position-of-element-in-sorted-array/solution.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0035search-insert-position/solution.cpp) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0039combination-sum/solution.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0058length-of-last-word/solution.cpp) |
