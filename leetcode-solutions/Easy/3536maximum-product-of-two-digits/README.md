@@ -5,8 +5,8 @@
 - **LeetCode URL**: [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/)
 - **Runtime**: 1
 ms (beats 27.79%)
-- **Memory**: 9.14
-MB (beats 12.56%)
+- **Memory**: 9.02
+MB (beats 22.60%)
 
 ## Solution File
 - [C++ Solution](./solution.cpp)
