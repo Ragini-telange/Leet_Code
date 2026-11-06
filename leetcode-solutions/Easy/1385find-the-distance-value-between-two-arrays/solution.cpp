@@ -4,24 +4,20 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-valid=false;
-        for(int i=0;i<arr1.size();i++){
-            bool valid=true;
-            for(int j=0;j<arr2.size();j++){
-                if(abs(arr1[i]-arr2[j])<=d){
-
-        int count=0;
-
-public:
-    int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
-class Solution {
-                    break;
-                }
-            }
-            if(valid){
-                count++;
-            }
+if(abs(arr1[i]-arr2[j])<=d){
         }
-        return count;
-    }
-};
+                valid=false;
+            }
+        if(valid){
+            count++;
+        }
+                break;
+        for(int j=0;j<arr2.size();j++){
+    int findTheDistanceValue(vector<int>& arr1, vector<int>& arr2, int d) {
+
+       int count=0;
+
+       for(int i=0;i<arr1.size();i++){
+       bool valid=true;
+class Solution {
+public:
