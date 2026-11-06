@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **40** (🟢 Easy: 27 | 🟡 Medium: 13 | 🔴 Hard: 0)
+- **Total Unique Problems**: **41** (🟢 Easy: 27 | 🟡 Medium: 14 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -42,6 +42,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2089find-target-indices-after-sorting-array/solution.cpp) |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2293min-max-game/solution.cpp) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2574left-and-right-sum-differences/solution.cpp) |
+| 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/2747count-zero-request-servers/solution.cpp) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2778sum-of-squares-of-special-elements/solution.cpp) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/3498reverse-degree-of-a-string/solution.cpp) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/3536maximum-product-of-two-digits/solution.cpp) |
