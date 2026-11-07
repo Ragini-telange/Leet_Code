@@ -16,11 +16,3 @@ int minEatingSpeed(vector<int>& piles, int h) {
             if(totalhours(piles,mid)<=h){
                 ans=mid;
                 end=mid-1;
-            }
-            else{
-                start=mid+1;
-            }
-        }
-        return ans;
-    }   
-};
