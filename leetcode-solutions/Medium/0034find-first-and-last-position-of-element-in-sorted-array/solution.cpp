@@ -4,20 +4,19 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-}
-
-
+start=mid+1;
+                }
+                else{
+                    end=mid-1;
+                }
+            }
+            return last;
         }
-return last;
-    }
-  
+   
        vector<int> searchRange(vector<int>& nums,int target){
-        int first=findFirst(nums,target);
-        int last=findLast(nums,target);
+         int first=findFirst(nums,target);
+         int last=findLast(nums,target);
 
-
-        return {first,last};
-
-       
+        return {first,last};   
     }
 };
