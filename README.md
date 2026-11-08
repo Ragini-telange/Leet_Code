@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **46** (🟢 Easy: 30 | 🟡 Medium: 16 | 🔴 Hard: 0)
+- **Total Unique Problems**: **47** (🟢 Easy: 31 | 🟡 Medium: 16 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -45,6 +45,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1991find-the-middle-index-in-array/solution.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2089find-target-indices-after-sorting-array/solution.cpp) |
+| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2114maximum-number-of-words-found-in-sentences/solution.cpp) |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2293min-max-game/solution.cpp) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2574left-and-right-sum-differences/solution.cpp) |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/2747count-zero-request-servers/solution.cpp) |
