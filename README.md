@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **44** (🟢 Easy: 28 | 🟡 Medium: 16 | 🔴 Hard: 0)
+- **Total Unique Problems**: **45** (🟢 Easy: 29 | 🟡 Medium: 16 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -40,6 +40,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0414third-maximum-number/solution.cpp) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0875koko-eating-bananas/solution.cpp) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1385find-the-distance-value-between-two-arrays/solution.cpp) |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1512number-of-good-pairs/solution.cpp) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1991find-the-middle-index-in-array/solution.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2089find-target-indices-after-sorting-array/solution.cpp) |
