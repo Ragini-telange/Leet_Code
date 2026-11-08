@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **47** (🟢 Easy: 31 | 🟡 Medium: 16 | 🔴 Hard: 0)
+- **Total Unique Problems**: **48** (🟢 Easy: 32 | 🟡 Medium: 16 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -42,6 +42,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1385find-the-distance-value-between-two-arrays/solution.cpp) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1512number-of-good-pairs/solution.cpp) |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1662check-if-two-string-arrays-are-equivalent/solution.cpp) |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1684count-the-number-of-consistent-strings/solution.cpp) |
 | 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1910remove-all-occurrences-of-a-substring/solution.cpp) |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1991find-the-middle-index-in-array/solution.cpp) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2089find-target-indices-after-sorting-array/solution.cpp) |
