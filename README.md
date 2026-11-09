@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **55** (🟢 Easy: 37 | 🟡 Medium: 18 | 🔴 Hard: 0)
+- **Total Unique Problems**: **56** (🟢 Easy: 38 | 🟡 Medium: 18 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -29,6 +29,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0069sqrtx/solution.cpp) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0070climbing-stairs/solution.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0075sort-colors/solution.cpp) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0118pascals-triangle/solution.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0121best-time-to-buy-and-sell-stock/solution.cpp) |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0122best-time-to-buy-and-sell-stock-ii/solution.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0125valid-palindrome/solution.cpp) |
