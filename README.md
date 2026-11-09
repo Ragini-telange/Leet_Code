@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **48** (🟢 Easy: 32 | 🟡 Medium: 16 | 🔴 Hard: 0)
+- **Total Unique Problems**: **49** (🟢 Easy: 33 | 🟡 Medium: 16 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -35,6 +35,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0202happy-number/solution.cpp) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0209minimum-size-subarray-sum/solution.cpp) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0215kth-largest-element-in-an-array/solution.cpp) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0217contains-duplicate/solution.cpp) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0240search-a-2d-matrix-ii/solution.cpp) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0389find-the-difference/solution.cpp) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0414third-maximum-number/solution.cpp) |
