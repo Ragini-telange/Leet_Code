@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **57** (🟢 Easy: 39 | 🟡 Medium: 18 | 🔴 Hard: 0)
+- **Total Unique Problems**: **58** (🟢 Easy: 40 | 🟡 Medium: 18 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -47,6 +47,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0414third-maximum-number/solution.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0724find-pivot-index/solution.cpp) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0875koko-eating-bananas/solution.cpp) |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1295find-numbers-with-even-number-of-digits/solution.cpp) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1385find-the-distance-value-between-two-arrays/solution.cpp) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1431kids-with-the-greatest-number-of-candies/solution.cpp) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1512number-of-good-pairs/solution.cpp) |
