@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **51** (🟢 Easy: 35 | 🟡 Medium: 16 | 🔴 Hard: 0)
+- **Total Unique Problems**: **52** (🟢 Easy: 35 | 🟡 Medium: 17 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -29,6 +29,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0070climbing-stairs/solution.cpp) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0075sort-colors/solution.cpp) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0121best-time-to-buy-and-sell-stock/solution.cpp) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0122best-time-to-buy-and-sell-stock-ii/solution.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0125valid-palindrome/solution.cpp) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0151reverse-words-in-a-string/solution.cpp) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | `Easy` | `sql` | [Solution](./leetcode-solutions/Easy/0181employees-earning-more-than-their-managers/solution.sql) |
