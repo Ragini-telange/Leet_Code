@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **53** (🟢 Easy: 36 | 🟡 Medium: 17 | 🔴 Hard: 0)
+- **Total Unique Problems**: **54** (🟢 Easy: 36 | 🟡 Medium: 18 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -23,6 +23,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0034find-first-and-last-position-of-element-in-sorted-array/solution.cpp) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0035search-insert-position/solution.cpp) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0039combination-sum/solution.cpp) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0055jump-game/solution.cpp) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0058length-of-last-word/solution.cpp) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0067add-binary/solution.cpp) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0069sqrtx/solution.cpp) |
