@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **60** (🟢 Easy: 42 | 🟡 Medium: 18 | 🔴 Hard: 0)
+- **Total Unique Problems**: **61** (🟢 Easy: 43 | 🟡 Medium: 18 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -50,6 +50,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1295find-numbers-with-even-number-of-digits/solution.cpp) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1385find-the-distance-value-between-two-arrays/solution.cpp) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1431kids-with-the-greatest-number-of-candies/solution.cpp) |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1470shuffle-the-array/solution.cpp) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1480running-sum-of-1d-array/solution.cpp) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1512number-of-good-pairs/solution.cpp) |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1662check-if-two-string-arrays-are-equivalent/solution.cpp) |
