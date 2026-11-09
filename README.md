@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **49** (🟢 Easy: 33 | 🟡 Medium: 16 | 🔴 Hard: 0)
+- **Total Unique Problems**: **50** (🟢 Easy: 34 | 🟡 Medium: 16 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -37,6 +37,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0215kth-largest-element-in-an-array/solution.cpp) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0217contains-duplicate/solution.cpp) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0240search-a-2d-matrix-ii/solution.cpp) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0242valid-anagram/solution.cpp) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0389find-the-difference/solution.cpp) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0414third-maximum-number/solution.cpp) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0875koko-eating-bananas/solution.cpp) |
