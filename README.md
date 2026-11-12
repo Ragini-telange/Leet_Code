@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **65** (🟢 Easy: 47 | 🟡 Medium: 18 | 🔴 Hard: 0)
+- **Total Unique Problems**: **66** (🟢 Easy: 48 | 🟡 Medium: 18 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -43,6 +43,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0242valid-anagram/solution.cpp) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0268missing-number/solution.cpp) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0283move-zeroes/solution.cpp) |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0342power-of-four/solution.cpp) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0389find-the-difference/solution.cpp) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0414third-maximum-number/solution.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0724find-pivot-index/solution.cpp) |
