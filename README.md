@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **67** (🟢 Easy: 49 | 🟡 Medium: 18 | 🔴 Hard: 0)
+- **Total Unique Problems**: **68** (🟢 Easy: 49 | 🟡 Medium: 19 | 🔴 Hard: 0)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -39,6 +39,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0209minimum-size-subarray-sum/solution.cpp) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0215kth-largest-element-in-an-array/solution.cpp) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0217contains-duplicate/solution.cpp) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0229majority-element-ii/solution.cpp) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0240search-a-2d-matrix-ii/solution.cpp) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0242valid-anagram/solution.cpp) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0258add-digits/solution.cpp) |
