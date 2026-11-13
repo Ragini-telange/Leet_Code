@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **68** (🟢 Easy: 49 | 🟡 Medium: 19 | 🔴 Hard: 0)
+- **Total Unique Problems**: **69** (🟢 Easy: 49 | 🟡 Medium: 19 | 🔴 Hard: 1)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -71,6 +71,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2574left-and-right-sum-differences/solution.cpp) |
 | 2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/2747count-zero-request-servers/solution.cpp) |
 | 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/2778sum-of-squares-of-special-elements/solution.cpp) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | `Hard` | `cpp` | [Solution](./leetcode-solutions/Hard/3420count-non-decreasing-subarrays-after-k-operations/solution.cpp) |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/3498reverse-degree-of-a-string/solution.cpp) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/3536maximum-product-of-two-digits/solution.cpp) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/3731find-missing-elements/solution.cpp) |
