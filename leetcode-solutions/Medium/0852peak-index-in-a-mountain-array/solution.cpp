@@ -7,11 +7,11 @@
 int start=0;
         int end=n-1;
 
-        while(start<=end){
+        while(start<end){
             int mid=start+(end-start)/2;
         }
 
-            if(arr[mid-1]<arr[mid] && arr[mid+1]<arr[mid]){
+            if(arr[mid-1]<arr[mid] && arr[mid]>arr[mid+1]){
                 return mid;
             }
             if(arr[mid]<arr[mid+1]){
@@ -23,7 +23,7 @@ int start=0;
     }
         return -1;
 };
-        int n=arr.size();
-    int peakIndexInMountainArray(vector<int>& arr) {
-public:
 class Solution {
+public:
+    int peakIndexInMountainArray(vector<int>& arr) {
+        int n=arr.size();
