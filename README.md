@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **71** (🟢 Easy: 50 | 🟡 Medium: 20 | 🔴 Hard: 1)
+- **Total Unique Problems**: **72** (🟢 Easy: 50 | 🟡 Medium: 21 | 🔴 Hard: 1)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -50,6 +50,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0414third-maximum-number/solution.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0724find-pivot-index/solution.cpp) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0744find-smallest-letter-greater-than-target/solution.cpp) |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0852peak-index-in-a-mountain-array/solution.cpp) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0875koko-eating-bananas/solution.cpp) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1295find-numbers-with-even-number-of-digits/solution.cpp) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1365how-many-numbers-are-smaller-than-the-current-number/solution.cpp) |
