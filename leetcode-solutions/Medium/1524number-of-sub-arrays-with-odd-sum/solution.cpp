@@ -4,25 +4,27 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-class Solution {
 public:
-    int numOfSubarrays(vector<int>& nums) {
+    int numOfSubarrays(vector<int>& arr) {
 
-        int n=nums.size();
+        const int MOD=1000000007;
 
-        int count=0;
+        long long ans=0;
+        int odd=0;
+        int even=1;
+        int sum=0;
 
-        for(int i=0;i<n;i++){
+        for(int x:arr){
+            sum+=x;
 
-            int sum=0;
-            for(int j=i;j<n;j++){
-                sum+=nums[j];
-
-            if(sum%2!=0){
-                count++;
+            if(sum%2){
+                ans+=even;
+                odd++;
             }
+            else{
+                ans+=odd;
+                even++;
             }
+            ans%=MOD;
         }
-     return count;   
-    }
-};
+        return ans;
