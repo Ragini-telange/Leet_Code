@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **70** (🟢 Easy: 50 | 🟡 Medium: 19 | 🔴 Hard: 1)
+- **Total Unique Problems**: **71** (🟢 Easy: 50 | 🟡 Medium: 20 | 🔴 Hard: 1)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -58,6 +58,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1470shuffle-the-array/solution.cpp) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1480running-sum-of-1d-array/solution.cpp) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1512number-of-good-pairs/solution.cpp) |
+| 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/1524number-of-sub-arrays-with-odd-sum/solution.cpp) |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1539kth-missing-positive-number/solution.cpp) |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1662check-if-two-string-arrays-are-equivalent/solution.cpp) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1672richest-customer-wealth/solution.cpp) |
