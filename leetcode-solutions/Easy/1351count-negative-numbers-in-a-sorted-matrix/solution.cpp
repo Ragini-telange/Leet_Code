@@ -4,16 +4,7 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-int start=0;
-        int n=grid.size();
-        int end=n-1;
-
-        int count=0;
-
-        for(int i=0;i<grid.size();i++){
-
-            int start=0;
-            int end=grid[i].size()-1;
+int end=grid[i].size()-1;
             int ans=grid[i].size();
 
             while(start<=end){
@@ -21,3 +12,13 @@ int start=0;
 
                 if(grid[i][mid]<0){
                     ans=mid;
+                    end=mid-1;
+                }
+                else{
+                    start=mid+1;
+                }
+            }
+            count+=grid[i].size()-ans;
+        }
+            return count;
+        }
