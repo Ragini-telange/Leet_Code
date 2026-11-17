@@ -8,8 +8,8 @@ class Solution {
 public:
     bool isPerfectSquare(int num) {
 
-        if(num<=0){
-            return false;
+        if(num==1){
+            return true;
         }
         int start=1;
         int end=num/2;
@@ -18,5 +18,3 @@ public:
             int mid=start+(end-start)/2;
 
             long long square=1LL *mid*mid;
-
-            if(square==num){
