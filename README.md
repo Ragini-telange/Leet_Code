@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **73** (🟢 Easy: 51 | 🟡 Medium: 21 | 🔴 Hard: 1)
+- **Total Unique Problems**: **74** (🟢 Easy: 52 | 🟡 Medium: 21 | 🔴 Hard: 1)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -48,6 +48,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0342power-of-four/solution.cpp) |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0389find-the-difference/solution.cpp) |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0414third-maximum-number/solution.cpp) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0704binary-search/solution.cpp) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0724find-pivot-index/solution.cpp) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/0744find-smallest-letter-greater-than-target/solution.cpp) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0852peak-index-in-a-mountain-array/solution.cpp) |
