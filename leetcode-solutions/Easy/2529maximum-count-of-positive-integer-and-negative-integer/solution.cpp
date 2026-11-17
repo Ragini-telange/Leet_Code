@@ -2,23 +2,26 @@
 // Problem: 2529. Maximum Count of Positive Integer and Negative Integer (Easy)
 // LeetCode: https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 // Language: C++
+// Runtime: 0
+ms (beats 100.00%)
+// Memory: 21.47
+MB (beats 44.89%)
 // Synced by Code_Raginii
 // ==========================================================================
-pcount++;
-            }
-            else{
-                continue;
-            }
-            else if(nums[i]>0){
-            if(nums[i]<0){
-                ncount++;
+int pcount=n-firstpositive;
+        return max(ncount,pcount);
 
-        for(int i=0;i<n;i++){
+    }
+};
 
-        int n=nums.size();
-    int maximumCount(vector<int>& nums) {
-public:
 
-        int ncount=0;
-        int pcount=0;
-class Solution {
+
+
+
+
+
+
+//  int n=nums.size();
+
+//         int ncount=0;
+//         int pcount=0;
