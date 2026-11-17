@@ -4,15 +4,19 @@
 // Language: C++
 // Synced by Code_Raginii
 // ==========================================================================
-}
-            else if(mid*mid>num){
-                end=mid-1;
-            }
-            else{
-                start=mid+1;
-            }
+class Solution {
+public:
+    bool isPerfectSquare(int num) {
+
+        if(num<=0){
+            return false;
         }
-        return false;    
-    }
-};
-                return true;
+        int start=1;
+        int end=num/2;
+
+        while(start<=end){
+            int mid=start+(end-start)/2;
+
+            long long square=1LL *mid*mid;
+
+            if(square==num){
