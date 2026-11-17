@@ -3,7 +3,7 @@
 Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii**.
 
 ## 📊 Progress Summary
-- **Total Unique Problems**: **75** (🟢 Easy: 53 | 🟡 Medium: 21 | 🔴 Hard: 1)
+- **Total Unique Problems**: **76** (🟢 Easy: 54 | 🟡 Medium: 21 | 🔴 Hard: 1)
 
 ## 📝 Synced Solutions
 | # | Problem Name | Difficulty | Language | Solution |
@@ -55,6 +55,7 @@ Automatically syncing accepted LeetCode solutions to GitHub with **Code_Raginii*
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0852peak-index-in-a-mountain-array/solution.cpp) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | `Medium` | `cpp` | [Solution](./leetcode-solutions/Medium/0875koko-eating-bananas/solution.cpp) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1295find-numbers-with-even-number-of-digits/solution.cpp) |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1351count-negative-numbers-in-a-sorted-matrix/solution.cpp) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1365how-many-numbers-are-smaller-than-the-current-number/solution.cpp) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1385find-the-distance-value-between-two-arrays/solution.cpp) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | `Easy` | `cpp` | [Solution](./leetcode-solutions/Easy/1431kids-with-the-greatest-number-of-candies/solution.cpp) |
